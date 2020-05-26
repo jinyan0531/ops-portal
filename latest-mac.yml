@@ -1,0 +1,12 @@
+version: 0.0.2
+files:
+  - url: ops-portal-0.0.2-mac.zip
+    sha512: BfoVWb7sWOhAueNDFn9QgteZFv8pEDttXtISh01UPHPemXjrGOTUeaGsmMnpDLwdfRM+3LN/9fsqOcKhiWNePg==
+    size: 67496668
+    blockMapSize: 72580
+  - url: ops-portal-0.0.2.dmg
+    sha512: kcd+KjvsfTrxoock02tffmaEE0UOlOG2tL5Z9tGjYoA+gBz5NYpSfprb3VLJYj1fz+jdh6roG8gwLXva9GGezA==
+    size: 70158770
+path: ops-portal-0.0.2-mac.zip
+sha512: BfoVWb7sWOhAueNDFn9QgteZFv8pEDttXtISh01UPHPemXjrGOTUeaGsmMnpDLwdfRM+3LN/9fsqOcKhiWNePg==
+releaseDate: '2020-05-26T01:42:30.504Z'
